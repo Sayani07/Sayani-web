@@ -11,31 +11,32 @@ education:
     institution: Indian Statistical Institute, India
     year: 2011
   - course: BSc in Statistics (Honors)
-    institution: St.Xavier's College, India 
+    institution: St. Xavier's College, India 
     year: 2008
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Computational Statistics
+- Visualization
+- Time series analysis
+- Forecasting
+name: Sayani Gupta
 organizations:
-- name: Stanford University
+- name: Monash University
   url: ""
-role: Professor of Artificial Intelligence
+role: PhD candidate
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/SayaniGupta07
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.au/citations?user=x7i5HoYAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Sayani07/
 superuser: true
 user_groups:
 - Researchers
