@@ -1,0 +1,12 @@
+base
+xaringan
+dplyr
+ggplot2
+plotly
+magrittr
+cricketdata
+kableExtra
+bindrcpp
+sp
+rworldmap
+maps
