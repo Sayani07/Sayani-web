@@ -27,7 +27,7 @@ role: PhD candidate
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#Sayani07'
+  link: "mailto:benjamin.williams@du.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/SayaniGupta07
