@@ -1,19 +1,12 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract:  Systematically explore multiple perspectives of temporal data across deconstructed time to explore behaviors or summarize the behavior through visualizing probability distributions  to find regular patterns and anomalies 
 address:
-  city: Stanford
-  country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  country: Australia
+  region: Canberra
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Academic Theme Conference
+date: "2019-10-02T14:00:00Z"
+event: Young Statisticians Conference, 2019
 event_url: https://example.org
 featured: false
 image:
@@ -23,19 +16,19 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
-location: Source Themes HQ
+  url: https://twitter.com/Sayanigupta07
+location: Manuka Oval
 math: true
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: An example talk using Academic's Markdown slides feature.
+summary: Exploring probability distributions for bivariate temporal granularities.
 tags: []
-title: Example Talk
+title: Young Statisticians Conference
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://sayanigupta-ysc.netlify.com/"
 url_video: ""
 ---
 
