@@ -18,27 +18,34 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Consultant"
+  company = "KPMG"
+  company_url = "https://home.kpmg/in/en/home.html"
+  location = "Gurgaon"
+  date_start = "2014-08-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Responsibilities:
   
-  * Analysing
-  * Modelling
-  * Deploying
+ * Development of Entry / Exit Transmission Pricing Mechanism for Southern African Power Pool (SAPP)
+ * Load Forecasting and Power Procurement and Sale Optimization for Punjab State Power Corporation Limited (PSPCL)
+ * Review of functioning of a power exchange of India - An audit of the Matching Engine/ Software Application used for price discovery and market splitting for various market segments
+ * Techno-Economic study of Indian Power Sector - Assessment of demand (historical and projections), assessment of existing generation capacity & new builds (including identification of long term tie ups) and analysis of fuel availability and prices in future
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Senior Analyst"
+  company = "Payback"
+  company_url = "https://www.payback.in/"
+  location = "Gurgaon"
+  date_start = "2016-06-06"
+  description = """
+  Responsibilities:
+  
+* Customer segmentation, campaign management, predictive modelling, generating customer insights and      developing customer engagement strategies at PAYBACK
+* Modelling wallet potential of customers
+
+
+  """
 
 +++
