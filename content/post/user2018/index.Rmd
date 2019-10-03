@@ -11,10 +11,10 @@ image:
   focal_point: ""
 lastMod: "2019-09-05T00:00:00Z"
 projects: []
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+subtitle: My first big conference on my PhD journey
+summary: UseR 2018
 tags: []
-title: "All about series 2!"
+title: "First Conference Feels"
 ---
 
-All about series 2!
+Is all of this for real?

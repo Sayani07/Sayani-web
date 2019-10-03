@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://home.kpmg/in/en/home.html"
   location = "Gurgaon"
   date_start = "2014-08-01"
-  date_end = ""
+  date_end = "2016-06-03"
   description = """
   Responsibilities:
   
@@ -39,6 +39,7 @@ date_format = "Jan 2006"
   company_url = "https://www.payback.in/"
   location = "Gurgaon"
   date_start = "2016-06-06"
+  date_end = "2018-01-09"
   description = """
   Responsibilities:
   

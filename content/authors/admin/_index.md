@@ -22,12 +22,12 @@ interests:
 name: Sayani Gupta
 organizations:
 - name: Monash University
-  url: ""
+  url: "https://www.monash.edu/"
 role: PhD candidate
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: '#Sayani07'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/SayaniGupta07
