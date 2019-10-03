@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: My Diary
+title: 
 view: 2
 ---
