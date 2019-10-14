@@ -5,21 +5,19 @@ image:
   caption: 
   focal_point: Smart
 slides: 
-summary: USC Political Science & International Relations (POIR) and Sociology departments
+summary: Interactive dataviz on the web with R & plotly
 tags:
 - Math
 - R
-title: Math and quantitative methods for social science Ph.D. students
-subtitle: USC POIR & Sociology departments
+title: Plotly-useR2018
+subtitle: Interactive dataviz on the web with R & plotly
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://tutorials.cpsievert.me/20180711/"
 url_video: ""
 ---
 
-This four day workshop provides an overview of central concepts from algebra, math notation, calculus, linear algebra, and statistics for social science applications. In addition, it introduces social science Ph.D. students to statistical programming and basic data visualization in `R`. Teaching material available upon request.
+This one day workshop was taught in [useR! 2018](https://user2018.r-project.org/) by [Carson Paul Sievert](https://cpsievert.me/), who is also the author of the `Plotly` package in `R`. 
 
 
-Taught as instructor in Aug 2019, Aug 2018, Aug 2017, and Aug 2016, 
-
-Taught as teaching assistant in Aug 2015.
+Taught as teaching assistant in July 2018.
