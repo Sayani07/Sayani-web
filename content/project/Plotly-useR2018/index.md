@@ -7,8 +7,9 @@ image:
 slides: 
 summary: Interactive dataviz on the web with R & plotly
 tags:
-- Math
+- Data Visualization
 - R
+- Interactive
 title: Plotly-useR2018
 subtitle: Interactive dataviz on the web with R & plotly
 url_code: ""
