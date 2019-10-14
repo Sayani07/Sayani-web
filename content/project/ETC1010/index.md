@@ -5,19 +5,24 @@ image:
   caption: 
   focal_point: BottomLeft
 slides: 
-summary: Florida State University Summer Methods School
+summary:  Concepts and practice in taking "data from the wild", reading different formats, tidying, and wrangling it into shape for analysis. Building models and making useful visualisations to achieve effective data-driven decision-making.
 tags:
 - Data visualization
 - R
-title: Advanced data visualization in R
-subtitle: Florida State University Summer Methods School 2019
+title: ETC1010
+subtitle: Data Modelling and Computing
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 links:
 - name: Course material
-  url: https://github.com/thereseanders/workshop-dataviz-fsu
+  url: https://dmac.netlify.com/
 ---
 
-This three-day intensive workshop provides Ph.D. students with the computing skills necessary to create advanced data visualizations in `R`. The course focuses on the grammar of graphics and its implementation via `ggplot2`, and provides introductions to data management using the `dplyr`, `tidyr`, and `lubridate` packages. It also contains a primer on visualizing spatial data using the `ggmap` and `sf` packages in `R`. Course materials are available on [Github](https://github.com/thereseanders/workshop-dataviz-fsu).
+
+This course designed by [Professor Dianne Cook
+](http://dicook.org/) and taught by [Dr Nicholas Tierney
+](https://www.njtierney.com/) is an introductory course for Data Science in `R`. It covers concepts like tidy data principles, advanced data visualization, analyzing text data, data scraping, wrangling and modelling. This course is a part of the training of undergraduate unit in the [Department of Econometrics and Business Statistics, Monash University](http://www.monash.edu/pubs/2019handbooks/units/index-byou-department-of-econometrics-and-business-statistics.html). Course materials are available on [Github](https://dmac.dicook.org/).
+
+Taught in Semester 2, 2019

@@ -3,7 +3,7 @@ date: "2019-10-01T00:00:00Z"
 external_link: ""
 image:
   caption: 
-  focal_point: Left
+  focal_point: BottomLeft
 slides: 
 summary: introduces methods suitable for forecasting including the decomposition of time series, exponential smoothing methods, ARIMA modelling, and regression with auto-correlated disturbances. 
 tags:
