@@ -45,9 +45,9 @@ user_groups:
 
 Hello, folks! Welcome to my home page. I am doing PhD at the [Econometrics and Business Statistics Department](https://www.monash.edu/business/econometrics-and-business-statistics/) of [Monash University](https://www.monash.edu/) under the supervision of [Rob J Hyndman](https://robjhyndman.com/) and [Di Cook](http://www.dicook.org/). My dissertation focuses on building visualization and statistical tools for analyzing spatially distributed big time series data.
 
-I'm passionate about putting to use statistics to solve real world problems and I almost always use R to do that. You can find some of my projects [here](https://sayani.netlify.com/#projects).
+I'm passionate about putting to use statistics to solve real world problems and I almost always use R to do that.
 
-Apart from my research, I spend my time learning Indian classical music and also travelling in and around Melbourne.
+Apart from my research, I spend my time learning Indian classical music, travelling in and around Melbourne and exploring cafes near me.
 
 _Be kind, remember you are collaborating with your future self_
 
