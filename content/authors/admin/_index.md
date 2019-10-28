@@ -7,7 +7,7 @@ education:
   - course: PhD in Computational Statistics
     institution: Monash University
     year: 2021
-  - course: MStat in Pure Statistics
+  - course: MStat in Statistics (QE specialization)
     institution: Indian Statistical Institute, India
     year: 2011
   - course: BSc in Statistics (Honors)
@@ -27,7 +27,7 @@ role: PhD candidate
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:benjamin.williams@du.edu"
+  link: "mailto:Sayani.Gupta@monash.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/SayaniGupta07
@@ -43,7 +43,7 @@ user_groups:
 - Visitors
 ---
 
-Hello, folks! Welcome to my home page. I am doing PhD at the [Econometrics and Business Statistics Department](https://www.monash.edu/business/econometrics-and-business-statistics/) of [Monash University](https://www.monash.edu/) under the supervision of [Rob J Hyndman](https://robjhyndman.com/) and [Di Cook](http://www.dicook.org/). My dissertation focuses on building visualisation and statistical tools for analyzing spatially distributed big time series data.
+Hello, folks! Welcome to my home page. I am doing PhD at the [Econometrics and Business Statistics Department](https://www.monash.edu/business/econometrics-and-business-statistics/) of [Monash University](https://www.monash.edu/) under the supervision of [Rob J Hyndman](https://robjhyndman.com/) and [Di Cook](http://www.dicook.org/). My dissertation focuses on building visualization and statistical tools for analyzing spatially distributed big time series data.
 
 I'm passionate about putting to use statistics to solve real world problems and I almost always use R to do that. You can find some of my projects [here](https://sayani.netlify.com/#projects).
 
