@@ -23,7 +23,7 @@ name: Sayani Gupta
 organizations:
 - name: Monash University
   url: "https://www.monash.edu/"
-role: PhD candidate
+role: PhD candidate <br> Teaching Associate <br> Research Assistant
 social:
 - icon: envelope
   icon_pack: fas
