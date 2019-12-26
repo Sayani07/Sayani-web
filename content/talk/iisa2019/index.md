@@ -23,7 +23,7 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides: iisa2019
-summary: Exploring probability distributions for bivariate temporal granularities.
+summary: Exploring probability distributions across bivariate temporal granularities through R package gravitas
 tags: []
 title: International Indian Statistical Association, 2019
 url_code: "https://github.com/Sayani07/IISA2019"
