@@ -6,7 +6,7 @@ address:
 all_day: false
 authors: [Sayani Gupta]
 date: "2019-12-26T15:45:00Z"
-event: International Indian Statistical Association, 2019
+event: International Indian Statistical Association
 event_url: https://r-iisa2019.rbind.io/
 featured: false
 image:
@@ -25,9 +25,9 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: iisa2019
 summary: Exploring probability distributions across bivariate temporal granularities through R package gravitas
 tags: []
-title: International Indian Statistical Association, 2019
+title: International Indian Statistical Association
 url_code: "https://github.com/Sayani07/IISA2019"
 url_pdf: ""
-url_slides: "iisa2019"
+url_slides: "sayanigupta-iisa2019.netlify.com"
 url_video: ""
 ---

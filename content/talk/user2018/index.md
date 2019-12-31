@@ -28,7 +28,7 @@ tags: []
 title: useR! 2018
 url_code: "https://github.com/Sayani07/UseR"
 url_pdf: ""
-url_slides: "https://sayanigupta-ysc.netlify.com/"
+url_slides: "https://sayanigupta-user.netlify.com/"
 url_video: "https://www.youtube.com/watch?v=VdFo1W8j1tU&feature=youtu.be"
 ---
 
