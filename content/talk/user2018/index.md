@@ -22,7 +22,6 @@ math: true
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
 summary: An R package for international cricket data
 tags: []
 title: useR! 2018
