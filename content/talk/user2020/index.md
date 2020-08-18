@@ -13,7 +13,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 summary: "gghdr: Graphing highest density regions <br> using grammar of graphics"
-title: useR! 2020
+title: Graphing highest density regions
 url_code: "https://github.com/Sayani07/useR2020"
 url_project: "https://github.com/ropenscilabs/gghdr"
 url_slides: "https://sayanigupta-user2020.netlify.app/"
