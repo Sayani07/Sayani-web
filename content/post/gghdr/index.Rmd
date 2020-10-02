@@ -1,0 +1,24 @@
+---
+authors:
+- admin
+weight: 1
+categories:
+- Demo
+date: "2020-09-20T00:00:00Z"
+draft: false
+featured: false
+image:
+  caption:
+  focal_point: ""
+  placement: 2
+  preview_only: false
+lastmod: "2020-09-20T00:00:00Z"
+projects: []
+subtitle: 'A journey to gghdr'
+summary: My experience at rOpenSci OzUnconf 2019
+tags:
+- Academic
+title: 'A journey to gghdr'
+---
+
+https://sayanigupta-posts-gghdr.netlify.app/
