@@ -33,7 +33,7 @@ social:
   link: https://twitter.com/SayaniGupta07
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com.au/citations?user=x7i5HoYAAAAJ&hl=en
+  link: https://scholar.google.com.au/citations?hl=en&user=e-cLhTIAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/Sayani07/
