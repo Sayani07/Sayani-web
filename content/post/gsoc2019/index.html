@@ -1,26 +1,72 @@
 ---
+title: 'Google Summer of Code'
+subtitle: 'What I did last summer. Oh no winter!'
 authors:
 - admin
 weight: 1
 categories:
-- Demo
-date: "2016-04-20T00:00:00Z"
-draft: false
-featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
-  placement: 2
-  preview_only: false
-lastmod: "2019-04-17T00:00:00Z"
+  - data visualisation
+  - shiny app      
+lastmod: "2019-09-20T00:00:00Z"
 projects: []
-subtitle: 'What I did last summer. Oh no winter!'
 summary: Summer of 2019
 tags:
 - Academic
-title: 'Google Summer of Code'
 ---
 
 
 
-<p>All about series 1 here!</p>
+<p><em>Student Developer</em>: <a href="https://github.com/Sayani07/">Sayani Gupta</a><br />
+<em>Mentors</em>: <a href="http://rosuda.org/~unwin/">Antony Unwin</a> and <a href="http://dicook.org/">Dianne Cook</a><br />
+<em>Official Project Link</em>: <a href="https://github.com/Sayani07/gravitas/">gravitas</a>
+<em>Twitter</em>: (<a href="https://twitter.com/SayaniGupta07" class="uri">https://twitter.com/SayaniGupta07</a>)</p>
+<div id="introduction" class="section level2">
+<h2>Introduction</h2>
+<p>Project gravitas aims to provide methods to operate on time in an automated way, to deconstruct it in many different ways. Deconstructions of time that respect the linear progression of time like days, weeks and months are defined as linear time granularities and those that accommodate for periodicities in time like hour of the day or day of the month are defined as circular granularities or calendar categorizations. Often visualizing data across these circular granularities are a way to go when we want to explore periodicities, pattern or anomalies in the data. Also, because of the large volume of data in recent days, using probability distributions for display is a potentially useful approach.The project will provide these techniques into the tidy workflow, so that probability distributions can be examined in the range of graphics available in the ggplot2 package.</p>
+</div>
+<div id="related-work" class="section level2">
+<h2>Related work</h2>
+<p><em><em>lubridate</em></em> is an R package that makes it easier to work with time and also has functions for creating calendar categorizations like hour of the day, day of the week, minutes of the hour. But it mostly creates calendar categorizations that are one step up. The proposed R package will allow creating calendar categorizations that are more than one step ahead, for example, hour of the week or one step up that are not present in lubridate package like week of the month.</p>
+<p>Calendar based graphics in the package sugrrants help explore data across linear time granularities in a calendar format, whereas this package would help explore circular time granularities.</p>
+<p>ggplot2 facilitates the process of mapping different variables to a 2D frame through grammar of graphics. But it does not tell us which all variables to plot together to promote exploration of data. The proposed package would provide the list of harmonies given a time variable.</p>
+<p>This will use as inputs tsibble objects which complement the tibble and extend the tidyverse concept to temporal data.</p>
+</div>
+<div id="main-contributions-of-this-project" class="section level2">
+<h2>Main contributions of this project</h2>
+<ul>
+<li><p>Functions to create multiple-order-up time granularities. This is an extension to the <a href="%5Bhttps://cran.r-project.org/package=lubridate">lubridate</a> package, which allows for the creation of some calendar categorizations, usually single-order-up.</p></li>
+<li><p>Checks on the feasibility of creating plots or drawing inferences from two granularities together. Pairs of granularities can be categorized as either a <em>harmony</em> or <em>clash</em>, where harmonies are pairs of granularities that aid exploratory data analysis, and clashes are pairs that are incompatible with each other for exploratory analysis.</p></li>
+</ul>
+</div>
+<div id="contributions-during-gsoc" class="section level2">
+<h2>Contributions during GSoC</h2>
+<p>The main objectives for project gravitas consisted of four parts:</p>
+<ol style="list-style-type: decimal">
+<li><strong>R Package</strong>: Develop an R package consisting of modules <strong>BUILD</strong> and <strong>COMPATIBLE</strong>.<br />
+The R package can be accessed from <a href="https://cran.r-project.org/web/packages/gravitas/index.html">CRAN</a> or using:</li>
+</ol>
+<pre class="r"><code>install.packages(&quot;devtools&quot;)
+devtools::install_github(&quot;Sayani07/gravitas&quot;)</code></pre>
+<ol start="2" style="list-style-type: decimal">
+<li><strong>Shiny UI</strong>: Develop an user interface using RShiny to enable user to walk through different modules of the package.<br />
+This can be accessed using:</li>
+</ol>
+<pre class="r"><code>library(gravitas)
+gravitas::run_app()</code></pre>
+<ol start="3" style="list-style-type: decimal">
+<li><p><strong>Application</strong>: Provide examples of probability visualization of smart meter data collected on Australian households.<br />
+This can be found <a href="https://github.com/Sayani07/gsoc2019/blob/master/smart_meter.pdf">here</a></p></li>
+<li><p><strong>Vignette</strong>: Document the R package functionality in a vignette.<br />
+This can be accessed <a href="https://sayani07.github.io/gravitas/">here</a></p></li>
+</ol>
+</div>
+<div id="summary" class="section level2">
+<h2>Summary</h2>
+<p>We have completed almost all goals that we had in the proposal. We were also able to accomodate new features for the Shiny App, which were not intially discussed but were made along the way. The way ahead is to make this package more robust so that it can facilitate manipulation of a large number of R data structures and run computations and explorations on them.</p>
+</div>
+<div id="commits-related-repository-and-feedbacks" class="section level2">
+<h2>Commits, related repository and feedbacks</h2>
+<p>List of all commits made by during GSoC 2019 can be found <a href="https://github.com/Sayani07/gravitas/commits/master">here</a>.</p>
+<p>Link to the repository that I have worked on for analysis :<a href="https://github.com/Sayani07/gsoc2019">gsoc_2019-analysis</a>.</p>
+<p>List of feedbacks from mentors and communications during GSoC 2019 are documented <a href="https://github.com/Sayani07/gsoc2019/issues">here</a> and <a href="https://github.com/Sayani07/gravitas/issues">here</a>.</p>
+</div>
