@@ -17,7 +17,6 @@ tags:
 *Student Developer*: [Sayani Gupta](https://github.com/Sayani07/)  
 *Mentors*: [Antony Unwin](http://rosuda.org/~unwin/) and [Dianne Cook](http://dicook.org/)  
 *Official Project Link*: [gravitas](https://github.com/Sayani07/gravitas/)
-*Twitter*: (https://twitter.com/SayaniGupta07)
 
 ## Introduction
 

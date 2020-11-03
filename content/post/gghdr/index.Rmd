@@ -21,4 +21,4 @@ tags:
 title: 'A journey to gghdr'
 ---
 
-https://sayanigupta-posts-gghdr.netlify.app/
+The post could be found [here](https://sayanigupta-posts-gghdr.netlify.app/)
