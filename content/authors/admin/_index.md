@@ -33,10 +33,12 @@ social:
   link: https://twitter.com/SayaniGupta07
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com.au/citations?hl=en&user=e-cLhTIAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/Sayani07/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sayanigupta/  
 superuser: true
 user_groups:
 - Researchers
