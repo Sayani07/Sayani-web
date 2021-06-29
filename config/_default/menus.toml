@@ -7,38 +7,35 @@
 [[main]]
   name = "About/Contact"
   url = "/authors/admin"
-  weight = 10
+  weight = 1
 
 [[main]]
   name = "Talks"
   url = "/talk"
-  weight = 20
+  weight = 2
 
 
 [[main]]
   name = "Teaching"
   url = "/project"
-  weight = 30
+  weight = 3
   
  [[main]]
   name = "Software"
   url = "/software"
-  weight = 40  
+  weight = 4
   
 # [[main]]
 # name = "Blogs"
 # url = "/post"
 #   weight = 50
 
- [[main]]
- name = "Blog"
- url = "/post"
- weight = 50
-  
- [[main]]
- name = "Awards & Achievements"
- url = "/awards"
- weight = 60
+
+
+[[main]]
+name = "Awards & Achievements"
+url = "/awards"
+weight = 6
 
 
 # Link to a PDF of your resume/CV from the menu.
