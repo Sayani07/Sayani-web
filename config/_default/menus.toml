@@ -30,12 +30,20 @@
 # url = "/post"
 #   weight = 50
 
+# \\Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
 
 [[main]]
 name = "Awards & Achievements"
 url = "/awards"
 weight = 6
+
+
+[[main]]
+name = "CV"
+url = "files/CV.pdf"
+weight = 7
 
 
 # Link to a PDF of your resume/CV from the menu.
